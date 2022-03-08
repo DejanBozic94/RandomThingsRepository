@@ -2,3 +2,6 @@ Ovo je prvi tekst
 Prva izmena u grani 1
 
 novi kod za dev granu
+
+3 novi kod za clientMapBranch granu
+i jos neke kao gluposti za istu, ova grana nema izmene koje ima grana returnJourneyBranch koja inace nije pushovana, samo je commitovana

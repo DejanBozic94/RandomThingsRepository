@@ -1,2 +1,4 @@
 Ovo je drugi tekst
 x = 5
+
+jos dodatak koda u clientMapBranch grani
