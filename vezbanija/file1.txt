@@ -3,5 +3,9 @@ Prva izmena u grani 1
 
 novi kod za dev granu
 
+
+2 novi kod za returnRouteBranch granu koja je izvod od dev grane
+
 3 novi kod za clientMapBranch granu
 i jos neke kao gluposti za istu, ova grana nema izmene koje ima grana returnJourneyBranch koja inace nije pushovana, samo je commitovana
+
