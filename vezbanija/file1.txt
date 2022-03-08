@@ -2,3 +2,5 @@ Ovo je prvi tekst
 Prva izmena u grani 1
 
 novi kod za dev granu
+
+2 novi kod za returnRouteBranch granu koja je izvod od dev grane
